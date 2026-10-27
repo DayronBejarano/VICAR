@@ -1,0 +1,39 @@
+VICAR V5.2
+CSS: assets/css/vicar-v5-2.css
+JS: assets/js/vicar-v5-2.js
+Puerto local recomendado: 8052
+
+.htaccess
+404.html
+INICIAR_PREVIA_MAC_LINUX.sh
+INICIAR_PREVIA_WINDOWS.bat
+INVENTARIO.txt
+README-LANZAMIENTO.md
+VISTA_PREVIA_LOCAL.html
+agendar.html
+assets/css/styles.css
+assets/img/colegio.webp
+assets/img/familias-digital.webp
+assets/img/favicon-512.png
+assets/img/hero-consulta.webp
+assets/img/logo-vicar-original-fondo.png
+assets/img/logo-vicar-original.png
+assets/img/og-vicar.jpg
+assets/img/yuli-viviana-carrillo.jpg
+assets/img/yuli-viviana-carrillo.webp
+assets/js/main.js
+aviso-legal.html
+colegios.html
+contacto-vicar.vcf
+contacto.html
+familias.html
+favicon.ico
+index.html
+nosotros.html
+perfil.html
+politica-de-privacidad.html
+robots.txt
+servicios.html
+site.webmanifest
+sitemap.xml
+terminos.html

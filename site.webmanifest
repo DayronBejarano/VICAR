@@ -1,0 +1,16 @@
+{
+  "name": "Consultoría Psicojurídica VICAR",
+  "short_name": "VICAR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b1d",
+  "theme_color": "#080d25",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "assets/img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
